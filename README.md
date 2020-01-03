@@ -1,7 +1,7 @@
 # UpnpMediaRender
 A standalone media render based on vlc
 
-##Usage
+## Usage
 Download a release and run it with java -jar
 You can customise the name with -n.
 
